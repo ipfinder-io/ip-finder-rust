@@ -1,0 +1,16 @@
+[package]
+name = "ipfinder"
+version = "1.0.0"
+authors = ["Mohamed Ben <mohamed@ipfinder.io>"]
+documentation = "https://docs.rs/ipfinder"
+repository = "https://gitlab.com/ipfinder/rust-ipfinder"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["ip", "geoip", "geolocation", "domain"]
+homepage = "https://docs.rs"
+
+[dependencies]
+hyper = "0.12"
+
+
